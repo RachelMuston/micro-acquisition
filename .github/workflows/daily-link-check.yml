@@ -4,8 +4,6 @@ on:
 
 env:
   URL: https://micro-acquisition.alpha.canada.ca
-  FILENAME: (date '+%Y_%m_%d')_report.yaml
-  CONFIG: config.json
 
 jobs:
   build:
