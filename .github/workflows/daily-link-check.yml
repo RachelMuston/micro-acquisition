@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '45 14 * * *'
+    - cron: '5 13 * * *'
 
 env:
   URL: https://micro-acquisition.alpha.canada.ca
