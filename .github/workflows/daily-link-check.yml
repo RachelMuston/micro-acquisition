@@ -17,5 +17,5 @@ jobs:
         uses: actions/checkout@main
         with:
           fetch-depth: 1
-      - name: Report broken links
-        uses: victoriadrake/link-snitch@master
+      - name: Link Snitch
+        uses: victoriadrake/link-snitch@v1.0.0
